@@ -14,5 +14,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CivSim"
+rootProject.name = "Civ"
 include(":app")
